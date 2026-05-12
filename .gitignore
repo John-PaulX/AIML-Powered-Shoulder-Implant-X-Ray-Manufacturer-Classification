@@ -1,0 +1,10 @@
+# Jupyter files
+.ipynb_checkpoints/
+
+# Large ML files
+*.npy
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
